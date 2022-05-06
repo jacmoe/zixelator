@@ -1,0 +1,6 @@
+id: c8s2z2ushalcqo9sz68cqh4qm4uz1qfwysb9ynn1oq289whh
+name: zixelator
+main: src/zixelator.zig
+license: MIT
+description: Pixelbuffer for Zig
+dependencies:
